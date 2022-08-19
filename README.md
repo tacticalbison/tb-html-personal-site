@@ -1,8 +1,8 @@
 # HTML-Personal-Site
 
-pure HTML CV/resume site
+pure HTML CV/resume site with basic CSS
 
-Created as part of <u>The Complete 2022 Web Development Bootcamp</u><br>_(Sections 2 and 3)_
+Created as part of <u>The Complete 2022 Web Development Bootcamp</u><br>_(Sections 2 through 4)_
 
 ---
 
@@ -22,8 +22,10 @@ Created as part of <u>The Complete 2022 Web Development Bootcamp</u><br>_(Sectio
 
 Relevant Article by Joel Spolsky:[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
+**<u>CSS Selectors:</u>** Angela did a fantastic job of explaining why CSS selectors are more useful when using classes vs id's. I used this time to also explore the power of the `:hover` pseudo class. This has some serious potential, however - it is NOT mobile friendly, so more research shall have to be done to make something that could be used to draw attention when an user is on a mobile device.
+
 ---
 
-**<u>Personal notes</u>**: I would recommend these sections of this course to anyone wanting to get a refresher of basic HTML. I intentionally took these sections to expose myself to more pure HTML coding. I am grateful as, combined with past experience in JavaScript, I can see connections I wasn't able to fully understand before. An example: I had known that you can set actions of a form using JavaScript, but did not realize that basic actions could also be done in pure HTML. Understanding the foundations will only unlock more knowledge for me in the future.
+**<u>Personal notes</u>**: I would recommend these sections of this course to anyone wanting to get a refresher of basic HTML and basic CSS concepts. I intentionally took these sections to expose myself to more pure HTML coding. I am grateful as, combined with past experience in JavaScript, I can see connections I wasn't able to fully understand before. An example: I had known that you can set actions of a form using JavaScript, but did not realize that basic actions could also be done in pure HTML. Understanding the foundations will only unlock more knowledge for me in the future.
 
 ---
